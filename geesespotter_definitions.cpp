@@ -1,4 +1,6 @@
 # Geesespotter
+//valueMask(), hiddenBit(), markedBit() were 8 bit binary numbers or hexadecimal values provided by the authors of the game program. 
+//Theese are to be used throughout in bitwise operations so the game correctly outputs what the user chose to do to a certain field.
 
 #include "geesespotter_lib.h"
 #include <iostream>
